@@ -1,5 +1,5 @@
 # FVD based on ViT
-https://gitee.com/h-Sun/FVD-based-on-ViT/edit/master/README.md
+https://gitee.com/h-Sun/FVD-based-on-ViT
 #### 介绍
 使用ViT模型提取图像特征计算FVD值
 
